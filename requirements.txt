@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+supabase-client
+pypdf
+google-cloud-vision
+langchain-text-splitters
+psycopg2-binary
+google-genai
